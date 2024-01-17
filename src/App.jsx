@@ -9,7 +9,7 @@ function App() {
   return (
     <>
    
-      <h1>Kaushal</h1>
+      <h1>Kaushal learning react js </h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
